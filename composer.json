@@ -1,0 +1,12 @@
+{
+	"name": "hgati/mdn-extensionconflict",
+	"type": "magento-module",
+	"license":"OSL-3.0",
+	"description": "fork MDN_ExtensionConflict",
+	"authors":[
+        {
+            "name":"hgati",
+            "email":"cobays@gmail.com"
+        }
+    ]
+}

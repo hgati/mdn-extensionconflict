@@ -1,0 +1,3 @@
+app/code/local/MDN/ExtensionConflict	app/code/local/MDN/ExtensionConflict
+app/design/adminhtml/default/default/layout/ExtensionConflict.xml	app/design/adminhtml/default/default/layout/ExtensionConflict.xml
+app/etc/modules/MDN_ExtensionConflict.xml	app/etc/modules/MDN_ExtensionConflict.xml
