@@ -1,1 +1,1 @@
-# mdn-extensionconflict
+# composer's version of mdn-extensionconflict
