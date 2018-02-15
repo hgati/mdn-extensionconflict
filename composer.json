@@ -4,12 +4,9 @@
 	"license":"OSL-3.0",
 	"description": "fork MDN_ExtensionConflict",
 	"authors":[
-        {
-            "name":"hgati",
-            "email":"cobays@gmail.com"
-        }
-    ],
-	 "require": {
-    "magento-hackathon/magento-composer-installer":"*"
-  }
+        	{ "name":"hgati", "email":"cobays@gmail.com" }
+	],
+	"require": {
+		"magento-hackathon/magento-composer-installer":"*"
+	}
 }
